@@ -28,11 +28,15 @@
 </div>
 <br>
 
+<h2 align="center">📜 Certification 📜</h2>
+học vì đam mê cần gì bằng cấp chứ (trừ khi đi làm)
+
 <h2 align="center">📊 Github Stats 📊</h2>
 <br>
 <div align="center">
     <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truonghienminh&layout=compact&theme=algolia"/>
-    <img width="434" src="https://github-readme-stats.vercel.app/api?username=truonghienminh&show_icons=true&theme=algolia" />
+    <img width="434" src="https://github-readme-stats.vercel.app/api?username=truonghienminh&show_icons=true&theme=radical" />
+    <img width="434" src="https://github-readme-stats.vercel.app/api?username=truonghienminh&hide=contribs,prs&theme=synthwave" />
 </div>
 <br>
 
@@ -41,4 +45,10 @@
 <div align="center">
     <a href="https://www.facebook.com/truonghienminh2006/" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
     <a href="mailto:truonghienminh2006@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+![](https://komarev.com/ghpvc/?username=truonghienminh&style=plastic&color=brightgreen)
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
 </div>

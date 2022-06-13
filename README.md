@@ -29,7 +29,7 @@
 <br>
 
 <h2 align="center">📜 Certification 📜</h2>
-***nah***
+Nah I don't need it at all.
 
 <h2 align="center">📊 Github Stats 📊</h2>
 <br>

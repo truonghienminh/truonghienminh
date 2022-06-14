@@ -25,6 +25,7 @@
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" height="25" />
         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual studio" height="25" />
         <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="SublimeText" height="25" />
+        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android studio" height="25" />
     </div>
 </div>
 <br>
@@ -38,8 +39,29 @@ Nah I don't need it at all.
     <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truonghienminh&layout=compact&theme=algolia"/>
     <img width="434" src="https://github-readme-stats.vercel.app/api?username=truonghienminh&show_icons=true&theme=radical" />
     <img width="434" src="https://github-readme-stats.vercel.app/api?username=truonghienminh&hide=contribs,prs&theme=synthwave" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=truonghienminh&theme=algolia&background=0d1117&hide_border=true\" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=truonghienminh&theme=react-dark"/>
+    
 </div>
 <br>
+
+<h2 align="center">📝 Extras 📝</h2>
+  <details>
+  <summary>Click to expand!</summary>
+  <br>
+    <p>
+<a href="https://github.com/truonghienminh?tab=followers">
+    <img src="https://img.shields.io/github/followers/truonghienminh?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  
+ </p>
+ <br>
+  <p>
+  <img src="https://github-profile-trophy.vercel.app/?username=truonghienminh&theme=onedark&column=3&margin-w=15&margin-h=15" />
+  </p>
+  <br>
+ <img src="https://metrics.lecoq.io/truonghienminh?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Detailed Github Stats"/>   
+</details>
 
 <h2 align="center">📞 Contact me 📞</h2>
 <br>
@@ -47,6 +69,9 @@ Nah I don't need it at all.
     <a href="https://www.facebook.com/truonghienminh2006/" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
     <a href="mailto:truonghienminh2006@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
+
+
 
 ![](https://komarev.com/ghpvc/?username=truonghienminh&style=plastic&color=brightgreen)
 

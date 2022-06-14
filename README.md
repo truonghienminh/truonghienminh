@@ -30,7 +30,7 @@
 <br>
 
 <h2 align="center">📜 Certification 📜</h2>
-học vì đam mê cần gì bằng cấp chứ (trừ khi đi làm)
+Nah I don't need it at all.
 
 <h2 align="center">📊 Github Stats 📊</h2>
 <br>

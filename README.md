@@ -41,7 +41,7 @@ Nah I don't need it at all.
     <img width="434" src="https://github-readme-stats.vercel.app/api?username=truonghienminh&hide=contribs,prs&theme=synthwave" />
     <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=truonghienminh&theme=algolia&background=0d1117&hide_border=true\" />
     <img src="https://activity-graph.herokuapp.com/graph?username=truonghienminh&theme=react-dark"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=truonghienminh&theme=github_dark&utcOffset=8"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=truonghienminh&theme=github_dark&utcOffset=7"/>
 </div>
 <br>
 

@@ -46,10 +46,6 @@ Nah I don't need it at all.
 <br>
 
 <h2 align="center">📝 Extras 📝</h2>
-  <details>
-  <summary>Click to expand!</summary>
-  <br>
-    <p>
 <a href="https://github.com/truonghienminh?tab=followers">
     <img src="https://img.shields.io/github/followers/truonghienminh?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
   </a>
@@ -60,7 +56,7 @@ Nah I don't need it at all.
   <img src="https://github-profile-trophy.vercel.app/?username=truonghienminh&theme=onedark&column=3&margin-w=15&margin-h=15" />
   </p>
   <br>
- <img src="https://metrics.lecoq.io/truonghienminh?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Detailed Github Stats"/>   
+ <img src="https://metrics.lecoq.io/truonghienminh?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Detailed Github Stats"/>
 </details>
 
 <h2 align="center">📞 Contact me 📞</h2>
